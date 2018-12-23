@@ -3,7 +3,6 @@ Handles chat among several users
 
 
 Server : 
-Chat Server v0.2
 =
 
 # Build
@@ -14,11 +13,9 @@ Run make in the repository
 
 # Using
 `./c_server [port]` to run server<br>
-You can get client [here](https://github.com/seniorkot/Chat-Client)<
 After installing there is account `admin` with password `qwerty`
 
-# Version 0.2 (22.01.2017)
-Chatroom for 50 users with few commands and authorization system.
+
 ## Available
 * Sending messages;
 * Sending private messages;
@@ -35,11 +32,6 @@ Chatroom for 50 users with few commands and authorization system.
 <b>\h \help</b> - print available commands list<br>
 <b>\q \quit</b> - leave server<br>
 
-# Version 0.1 (20.11.2016)
-Simple chatroom for 50 users.
-### Available
-* Sending messages;
-* Changing nickname;
 
 client : 
 =
@@ -49,6 +41,4 @@ Run `make` in the repository
 
 # Using
 `./c_client [host] [port]` to run client
-
-# Version 1.0
-Simple TCP client which sends and receives messages from server
+e TCP client which sends and receives messages from server
