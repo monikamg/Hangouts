@@ -42,7 +42,6 @@ Simple chatroom for 50 users.
 * Changing nickname;
 
 client : 
-Simple TCP client for [chat server](https://github.com/seniorkot/Chat-Server)
 =
 
 # Build
