@@ -14,7 +14,7 @@ Run make in the repository
 
 # Using
 `./c_server [port]` to run server<br>
-You can get client [here](https://github.com/seniorkot/Chat-Client)<br>
+You can get client [here](https://github.com/seniorkot/Chat-Client)<
 After installing there is account `admin` with password `qwerty`
 
 # Version 0.2 (22.01.2017)
